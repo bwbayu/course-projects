@@ -1,24 +1,15 @@
 [submodule "openmusic-api"]
 	path = openmusic-api
 	url = https://github.com/bwbayu/openmusic-api
-	branch = main
-
 [submodule "forum-api"]
 	path = forum-api
 	url = https://github.com/bwbayu/forum-api
-	branch = main
-
 [submodule "jenkins-pipeline"]
 	path = jenkins-pipeline
 	url = https://github.com/bwbayu/jenkins-pipeline
-	branch = main
-
 [submodule "app-deployment-with-kubernetes"]
 	path = app-deployment-with-kubernetes
 	url = https://github.com/bwbayu/dicoding_kubernetes
-	branch = main
-
 [submodule "service-communication-with-kubernetes"]
 	path = service-communication-with-kubernetes
 	url = https://github.com/bwbayu/nodejs_k8s
-	branch = main
