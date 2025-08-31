@@ -1,0 +1,20 @@
+[submodule "Open Music API"]
+	path = Open Music API
+	url = https://github.com/bwbayu/openmusic-api
+	branch = main
+[submodule "Forum API"]
+	path = Forum API
+	url = https://github.com/bwbayu/forum-api
+	branch = main
+[submodule "Jenkins Pipeline"]
+	path = Jenkins Pipeline
+	url = https://github.com/bwbayu/jenkins-pipeline
+	branch = main
+[submodule "App Deployment with Kubernetes"]
+	path = App Deployment with Kubernetes
+	url = https://github.com/bwbayu/dicoding_kubernetes
+	branch = main
+[submodule "Service Communication with Kubernetes"]
+	path = Service Communication with Kubernetes
+	url = https://github.com/bwbayu/nodejs_k8s
+	branch = main
